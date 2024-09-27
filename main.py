@@ -1,5 +1,5 @@
 import math
-print("Vedi chisla")
+print("Vvod")
 a, b, c = int(input()), int(input()), int(input())
 def solve_quadratic_equation(a, b, c):
     # Рассчитаем дискриминант
